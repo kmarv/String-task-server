@@ -1,17 +1,17 @@
 <!doctype html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Cron Jobs</title>
-<link rel="stylesheet" href="styles.css" type="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Cron Jobs</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" />
 
-<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 </head>
 
 <body>
 
-		<section id="body" class="width">
-			<aside id="sidebar" class="column-left">
+	<section id="body" class="width">
+		<aside id="sidebar" class="column-left">
 
 			<header>
 				<h1><a href="#">Cron Jobs</a></h1>
@@ -22,13 +22,13 @@
 
 			<nav id="mainnav">
   				<ul>
-                            		<li><a href="http://localhost/GROUP5/index1.php">Average Rate</a></li>
-                           		 <li class="selected-item"><a href="http://localhost/GROUP5/example.php">Waiting Jobs</a></li>
-                           		 <li><a href="#">Success Rate</a></li>
-                            		<li><a href="#">Failure Rate</a></li>
-                            		<li><a href="http://localhost/GROUP5/index1.php">Ready Jobs</a></li>
-                            		<li><a href="http://localhost/GROUP5/blacklist.php">Black Listed</a></li>
-                        	</ul>
+               		<li><a href="http://localhost/GROUP5/index1.php">Average Rate</a></li>
+                    <li class="selected-item"><a href="http://localhost/GROUP5/example.php">Waiting Jobs</a></li>
+                    <li><a href="#">Success Rate</a></li>
+                    <li><a href="#">Failure Rate</a></li>
+                    <li><a href="http://localhost/GROUP5/index1.php">Ready Jobs</a></li>
+                    <li><a href="http://localhost/GROUP5/blacklist.php">Black Listed</a></li>
+                </ul>
 			</nav>
 
 			
@@ -36,16 +36,7 @@
 			</aside>
 			<section id="content" class="column-right">
                 		
-	    <article>
-				
-			
-			
-				
-				
-				
-				
-				
-				
+	    	<article>			
 				<h3>Table</h3>
 				<table>
 					<tr>
