@@ -15,7 +15,6 @@ else{
 <head>
 	<title>home page</title>
 	<link rel="stylesheet" href="styles.css" type="text/css" />
-
 </head>
 <body>
 
