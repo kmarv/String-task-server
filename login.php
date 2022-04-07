@@ -12,7 +12,7 @@
 		<article>
 			<fieldset>
 
-								<legend>login</legend>
+				<legend>login</legend>
 				<form action="http://localhost/GROUP5/welcome.php" method="post">
 					<table>			
 						<tr>
